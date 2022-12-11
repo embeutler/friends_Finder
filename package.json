@@ -19,7 +19,7 @@
   "homepage": "https://github.com/embeutler/friends_Finder#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "heroku": "^7.35.0",
     "path": "^0.12.7"
   }
